@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
