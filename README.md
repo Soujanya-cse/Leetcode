@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
+| [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
