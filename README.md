@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
