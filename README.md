@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2523-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
