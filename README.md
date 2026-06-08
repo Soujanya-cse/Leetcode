@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0334-increasing-triplet-subsequence) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2523-closest-prime-numbers-in-range) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
