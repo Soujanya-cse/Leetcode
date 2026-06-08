@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -86,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
