@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0334-increasing-triplet-subsequence) |
@@ -87,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
