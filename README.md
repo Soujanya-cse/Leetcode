@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0137-single-number-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
