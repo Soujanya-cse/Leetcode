@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1341-movie-rating](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
