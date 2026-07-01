@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0371-sum-of-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
