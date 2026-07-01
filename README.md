@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1068-product-sales-analysis-i) |
