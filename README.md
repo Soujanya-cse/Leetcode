@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
