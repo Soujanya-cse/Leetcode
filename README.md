@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0137-single-number-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
