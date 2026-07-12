@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
