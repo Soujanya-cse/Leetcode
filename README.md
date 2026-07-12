@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
