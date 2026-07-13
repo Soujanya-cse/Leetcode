@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Greedy
