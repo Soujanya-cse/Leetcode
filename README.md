@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0049-group-anagrams) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0141-linked-list-cycle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0605-can-place-flowers) |
 ## Binary Search
