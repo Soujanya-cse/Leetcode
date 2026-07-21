@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/0349-intersection-of-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soujanya-cse/Leetcode-SQL/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
